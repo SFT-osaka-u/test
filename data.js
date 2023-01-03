@@ -1,0 +1,1 @@
+"\n  const bookData = {\n    isbn: 9870000000000,\n    title: \"aiueo\",\n    author: \"xyz\",\n    genre: \"math\",\n    stock: 3,\n    add: \"add\",\n    add2: \"add2\"\n  }\n  "
